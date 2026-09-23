@@ -6,7 +6,6 @@
 # Universidad estatal amazonica
 # =====================================================================
 
-
 def mostrar_menu():
     print("\n--- SISTEMA DE GESTIÓN DE TIENDA ---")
     print("1. Mostrar todos los productos")
